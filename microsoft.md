@@ -1,6 +1,8 @@
 April 26th, 2022 Microsoft Onsite-Interview:
 
-1. Game loop(collision objects) - Design and list collision object: which collided 
+1. Game loop(collision objects) - Design required classes and write a function to return list collision object.
+  -  Use Rootmean square to find the distance, and decides which object collided with what. 
+  
  class  ObjectItems{
         private String name;
         private int x;
