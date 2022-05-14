@@ -1,4 +1,4 @@
-// HTTP
+```// HTTP
 // - GET/POST/DELETE/PUT
 //   - query paramters // GET
 //   - payload // POST
@@ -34,3 +34,4 @@
 // | GET /users/thisuseridlookslikewords/preferences | get_user_preferences |
 // | GET /thread/thisthreadidlookslikewords/comments | get_thread_comments  |
 // | ...                                             | ...                  |
+```
