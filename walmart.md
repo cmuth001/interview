@@ -1,4 +1,4 @@
-Question-1: Given grid position(i, j), count how many are present in the grid with same value, should always be adjacent. 
+1. Given grid position(i, j), count how many are present in the grid with same value, should always be adjacent. 
 ```
 /*
 While your players are waiting for a game, you've developed a solitaire game for the players to pass the time with.
@@ -53,7 +53,7 @@ N - Width of the grid
 M - Height of the grid
 */
 ````
-* Question-2: Find valid string is valid tMahjong.
+2. Find valid string is valid tMahjong.
 
 ```
 import java.io.*;
