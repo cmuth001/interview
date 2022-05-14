@@ -1,4 +1,4 @@
-——META
+
 ```// Given a binary tree of integer nodes, find the subtree with the maximum sum, and return this sum.
 
 // Input :
